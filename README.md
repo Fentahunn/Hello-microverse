@@ -1,5 +1,4 @@
 <a name="readme-top"></a>
-
 <!--
 HOW TO USE:
 This is an example of how you may give instructions on setting up your project locally.
@@ -280,4 +279,3 @@ I would like to thank my coding prartner,.They are really supportive.
 
 This project is [MIT](./LICENSE) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
