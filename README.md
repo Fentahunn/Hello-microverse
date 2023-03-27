@@ -78,17 +78,17 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 ```sh
- npm install 
+ npm install
 ```
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-````sh
+```sh
   cd my-folder
   git clone git@github.com:Fentahunn/Hello-microverse.git
-`````
+```
 
 ### Install
 
@@ -96,7 +96,7 @@ Install this project with:
 
 ```sh
   cd Hello-microverse
-````
+```
 
 ### Usage
 
